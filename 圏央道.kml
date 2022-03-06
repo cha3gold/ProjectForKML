@@ -3,6 +3,18 @@
 <Document>
 	<name>圏央道</name>
 	<open>1</open>
+<<<<<<< HEAD
+=======
+	<Style id="line-1267FF-5000-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff6712</color>
+			<width>7.5</width>
+		</LineStyle>
+	</Style>
+>>>>>>> 1d0c3f812aef1df426c6fac48584ccab6ad98087
 	<StyleMap id="line-1267FF-5000-nodesc">
 		<Pair>
 			<key>normal</key>
@@ -13,6 +25,7 @@
 			<styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
 		</Pair>
 	</StyleMap>
+<<<<<<< HEAD
 	<Style id="line-1267FF-5000-nodesc-highlight">
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -22,6 +35,8 @@
 			<width>7.5</width>
 		</LineStyle>
 	</Style>
+=======
+>>>>>>> 1d0c3f812aef1df426c6fac48584ccab6ad98087
 	<Style id="line-1267FF-5000-nodesc-normal">
 		<BalloonStyle>
 			<text><![CDATA[<h3>$[name]</h3>]]></text>
@@ -32,10 +47,17 @@
 		</LineStyle>
 	</Style>
 	<Folder>
+<<<<<<< HEAD
 		<name>圏央道１</name>
 		<open>1</open>
 		<Placemark>
 			<name>圏央道１</name>
+=======
+		<name>日本、〒243-0424 神奈川県海老名市社家３６３４ から 日本、〒286-0101 千葉県成田市十余三 首都圏中央連絡自動車道 へのルート</name>
+		<open>1</open>
+		<Placemark>
+			<name>日本、〒243-0424 神奈川県海老名市社家３６３４ から 日本、〒286-0101 千葉県成田市十余三 首都圏中央連絡自動車道 へのルート</name>
+>>>>>>> 1d0c3f812aef1df426c6fac48584ccab6ad98087
 			<styleUrl>#line-1267FF-5000-nodesc</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
@@ -46,10 +68,17 @@
 		</Placemark>
 	</Folder>
 	<Folder>
+<<<<<<< HEAD
 		<name>圏央道２</name>
 		<open>1</open>
 		<Placemark>
 			<name>圏央道２</name>
+=======
+		<name>日本、〒289-1503 千葉県山武市松尾町谷津１３７ から 日本、千葉県木更津市 館山自動車道 へのルート</name>
+		<open>1</open>
+		<Placemark>
+			<name>日本、〒289-1503 千葉県山武市松尾町谷津１３７ から 日本、千葉県木更津市 館山自動車道 へのルート</name>
+>>>>>>> 1d0c3f812aef1df426c6fac48584ccab6ad98087
 			<styleUrl>#line-1267FF-5000-nodesc</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
